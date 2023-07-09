@@ -1,0 +1,1 @@
+g++ ./src/main.cpp -o ./bin/touch.exe -m64 -Os -s -flto -fdata-sections -ffunction-sections -pthread -DNDEBUG
